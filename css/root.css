@@ -1,0 +1,46 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	overflow: hidden;
+}
+.desktop {
+	position: absolute;
+	top: 200px;
+	left: 590px;
+}
+.title {
+	height: 48px;
+	line-height: 48px;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+.content {
+	height: 40px;
+	line-height: 40px;
+	font-size: 16px;
+	margin-top: 10px;
+}
+.rootinput {
+	height:30px;
+	/*line-height: 40px;*/
+	font-size: 16px;
+	border: 1px solid #d5d5d5;
+	color: #c1c1c1;
+	outline: none;
+	text-indent: 10px;
+}
+.button {
+	margin-left: 24%;
+	width: 60%;
+	height: 40px;
+	background: #3b7ae3;
+	border:none;
+	font-size: 16px;color: #fff;
+	outline: none;
+	display: block;
+	text-align: center;
+	line-height: 40px;
+}
